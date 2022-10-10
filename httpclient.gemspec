@@ -1,4 +1,4 @@
-require './lib/httpclient/version'
+require_relative './lib/httpclient/version'
 
 Gem::Specification.new { |s|
   s.name = 'httpclient'
